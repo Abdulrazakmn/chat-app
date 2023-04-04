@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679324393245",
+    "project_id": "interview-chatapp",
+    "storage_bucket": "interview-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679324393245:android:46c3b0b09bdf1c3f5d0bf4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679324393245-92opd8nns31f361saot0e657sjk418r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWAfLAv3ATZkQS5H9cYzGjdsktuGvl4jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679324393245-92opd8nns31f361saot0e657sjk418r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
